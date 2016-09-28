@@ -1,0 +1,13 @@
+(librepcb_library
+ (uuid 326f091b-b715-44bf-b385-b613cd60d9f3)
+ (version "0.0.1")
+ (author "LibrePCB")
+ (created 2016-09-28T21:48:03Z)
+ (modified 2016-09-28T21:48:03Z)
+ (deprecated false)
+ (name "LibrePCB Integrated Circuits")
+ (description "Official LibrePCB Integrated Circuits")
+ (keywords "")
+ (url "https://github.com/LibrePCB-Libraries/LibrePCB_ICs.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
