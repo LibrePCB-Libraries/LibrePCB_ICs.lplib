@@ -1,5 +1,5 @@
 (librepcb_component 71d4aecd-47d2-4840-af10-299506b618b2
- (name "Non-inverting Schmitt trigger")
+ (name "Schmitt Trigger Non-Inverting")
  (description "")
  (keywords "noninverting,schmitt,trigger,logic")
  (author "Danilo B.")

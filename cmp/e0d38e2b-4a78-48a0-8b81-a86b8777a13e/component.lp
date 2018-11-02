@@ -1,5 +1,5 @@
 (librepcb_component e0d38e2b-4a78-48a0-8b81-a86b8777a13e
- (name "Inverting Schmitt trigger")
+ (name "Schmitt Trigger Inverting")
  (description "")
  (keywords "inverting,schmitt,trigger,logic")
  (author "Danilo B.")
