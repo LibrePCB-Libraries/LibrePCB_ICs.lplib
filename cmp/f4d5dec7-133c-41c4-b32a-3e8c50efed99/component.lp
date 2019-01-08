@@ -12,7 +12,7 @@
  (default_value "{{PARTNUMBER or DEVICE}}")
  (prefix "U")
  (signal 44c28122-827b-4f80-b43f-bee48a8e700f (name "V+") (role passive)
-  (required false) (negated false) (clock false) (forced_net "")
+  (required true) (negated false) (clock false) (forced_net "")
  )
  (signal 5956a15c-d7d0-4fd2-9248-a502ec69e298 (name "V-") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
