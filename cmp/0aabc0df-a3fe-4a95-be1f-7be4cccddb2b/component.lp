@@ -15,7 +15,7 @@
   (required true) (negated false) (clock false) (forced_net "")
  )
  (signal bd997edc-b69b-4766-9c55-00b05febeed7 (name "V-") (role passive)
-  (required false) (negated false) (clock false) (forced_net "")
+  (required true) (negated false) (clock false) (forced_net "")
  )
  (signal e23711db-4e75-428d-8889-f2bd83364aab (name "+1") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
