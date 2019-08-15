@@ -1,7 +1,7 @@
 (librepcb_symbol d374f9d3-d582-4831-a32c-e521bdec74ee
  (name "7432")
  (description "quad 2 input or gate")
- (keywords "")
+ (keywords "digital,logic,or")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-01T20:17:55Z)

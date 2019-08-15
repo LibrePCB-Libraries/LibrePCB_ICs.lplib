@@ -1,7 +1,7 @@
 (librepcb_symbol a92b6602-62c9-466c-ba39-3102c1484082
  (name "7421")
  (description "dual 4 input and gate")
- (keywords "")
+ (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-03T01:13:28Z)

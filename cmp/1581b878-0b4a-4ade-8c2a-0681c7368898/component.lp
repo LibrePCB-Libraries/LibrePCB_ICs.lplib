@@ -1,7 +1,7 @@
 (librepcb_component 1581b878-0b4a-4ade-8c2a-0681c7368898
  (name "7400")
  (description "quad 2 input nand gate")
- (keywords "")
+ (keywords "digital,logic,7400,nand")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-01T16:37:12Z)

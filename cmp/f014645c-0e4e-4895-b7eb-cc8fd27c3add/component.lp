@@ -1,7 +1,7 @@
 (librepcb_component f014645c-0e4e-4895-b7eb-cc8fd27c3add
  (name "7404")
  (description "hex inverter")
- (keywords "")
+ (keywords "digital,logic,7400,inverter")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-02T02:53:58Z)

@@ -1,7 +1,7 @@
 (librepcb_symbol 8f671039-b0b9-43c0-bf68-b46169ef883f
  (name "7410")
  (description "triple 3 input nand gate")
- (keywords "")
+ (keywords "digital,logic,nand")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-01T22:27:45Z)

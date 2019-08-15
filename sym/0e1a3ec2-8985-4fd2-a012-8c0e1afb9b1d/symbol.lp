@@ -1,7 +1,7 @@
 (librepcb_symbol 0e1a3ec2-8985-4fd2-a012-8c0e1afb9b1d
  (name "7420")
  (description "dual 4 input nand gate")
- (keywords "")
+ (keywords "digital,logic,nand")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-03T01:07:20Z)

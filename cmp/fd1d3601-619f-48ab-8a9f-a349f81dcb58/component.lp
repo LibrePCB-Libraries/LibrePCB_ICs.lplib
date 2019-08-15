@@ -1,7 +1,7 @@
 (librepcb_component fd1d3601-619f-48ab-8a9f-a349f81dcb58
  (name "7474")
  (description "D FlipFlop with active low preset and clear")
- (keywords "")
+ (keywords "digital,logic,7400,D Flipflop")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-02T19:24:32Z)

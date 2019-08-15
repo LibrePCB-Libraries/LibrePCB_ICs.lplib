@@ -1,7 +1,7 @@
 (librepcb_component 79e0d43d-ce0e-4b64-82ff-559b67e23f0b
  (name "74138")
  (description "3/8 decoder")
- (keywords "")
+ (keywords "digital,logic,7400,decoder")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-02T16:08:29Z)

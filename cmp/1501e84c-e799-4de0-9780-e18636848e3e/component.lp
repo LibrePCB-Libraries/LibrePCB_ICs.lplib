@@ -1,7 +1,7 @@
 (librepcb_component 1501e84c-e799-4de0-9780-e18636848e3e
  (name "74245")
  (description "octal transceiver")
- (keywords "")
+ (keywords "digital,logic,7400,transsceiver")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-02T16:24:46Z)

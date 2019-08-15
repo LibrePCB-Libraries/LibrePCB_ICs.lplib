@@ -1,7 +1,7 @@
 (librepcb_component e63e4736-379f-49c4-929c-0f895905f607
  (name "7421")
  (description "Dual 4 input and gate")
- (keywords "")
+ (keywords "digital,logic,7400,and")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-03T01:18:45Z)

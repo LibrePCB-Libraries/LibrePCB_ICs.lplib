@@ -1,7 +1,7 @@
 (librepcb_component 271788d3-9437-41c1-8311-f652f0242dba
  (name "7486")
  (description "quad 2 input xor gate")
- (keywords "")
+ (keywords "digital,logic,7400,xor")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-01T20:31:59Z)

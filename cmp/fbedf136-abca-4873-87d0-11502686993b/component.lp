@@ -1,7 +1,7 @@
 (librepcb_component fbedf136-abca-4873-87d0-11502686993b
  (name "7427")
  (description "triple 3 input nor gate")
- (keywords "")
+ (keywords "digital,logic,7400,nor")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-03T22:39:50Z)

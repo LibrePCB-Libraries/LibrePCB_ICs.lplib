@@ -1,7 +1,7 @@
 (librepcb_symbol 50d897df-0307-45b0-a9aa-1bd17058eaab
  (name "74245")
  (description "octal transceiver")
- (keywords "")
+ (keywords "digital,logic,transceiver")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-02T16:16:26Z)

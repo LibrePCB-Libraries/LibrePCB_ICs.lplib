@@ -1,7 +1,7 @@
 (librepcb_symbol 4a2f1415-e77a-4e17-92b6-59594893fa49
  (name "7408")
  (description "quad 2 input and gate")
- (keywords "")
+ (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-01T20:05:22Z)

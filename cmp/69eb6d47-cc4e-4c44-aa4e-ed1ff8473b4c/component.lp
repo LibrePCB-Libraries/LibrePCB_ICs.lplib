@@ -1,7 +1,7 @@
 (librepcb_component 69eb6d47-cc4e-4c44-aa4e-ed1ff8473b4c
  (name "7414")
  (description "hex schmitt inverter")
- (keywords "")
+ (keywords "digital,logic,7400,inverter")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-01T19:42:19Z)

@@ -1,7 +1,7 @@
 (librepcb_symbol 6e84259a-ca5d-4765-99bb-fc3a41b91084
  (name "7427")
  (description "triple 3 input nor gate")
- (keywords "")
+ (keywords "digital,logic,nor")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-03T22:38:01Z)

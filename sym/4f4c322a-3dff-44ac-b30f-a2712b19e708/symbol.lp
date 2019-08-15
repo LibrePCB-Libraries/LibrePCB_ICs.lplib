@@ -1,7 +1,7 @@
 (librepcb_symbol 4f4c322a-3dff-44ac-b30f-a2712b19e708
  (name "74138")
  (description "3/8 decoder")
- (keywords "")
+ (keywords "digital,logic,decoder")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-02T15:57:55Z)

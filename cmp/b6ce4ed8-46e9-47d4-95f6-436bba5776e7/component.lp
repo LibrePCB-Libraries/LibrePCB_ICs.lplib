@@ -1,7 +1,7 @@
 (librepcb_component b6ce4ed8-46e9-47d4-95f6-436bba5776e7
  (name "7411")
  (description "triple 3 input and gate")
- (keywords "")
+ (keywords "digital,logic,7400,and")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-01T23:15:18Z)

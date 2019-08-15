@@ -1,7 +1,7 @@
 (librepcb_component 929efc82-ee37-44d3-8f32-e55a5ea484bb
  (name "7402")
  (description "quad 2 input nor gate")
- (keywords "")
+ (keywords "digital,logic,7400,nor")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-01T17:04:31Z)

@@ -1,7 +1,7 @@
 (librepcb_symbol efd50433-b485-4df1-80b0-409442ed1e41
  (name "7474")
  (description "D FlipFlop with active low preset and clear")
- (keywords "")
+ (keywords "digital,logic,D-Flipflop")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-02T19:17:38Z)

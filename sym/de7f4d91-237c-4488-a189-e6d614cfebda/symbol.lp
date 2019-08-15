@@ -1,7 +1,7 @@
 (librepcb_symbol de7f4d91-237c-4488-a189-e6d614cfebda
  (name "7414")
  (description "hex schmitt inverte")
- (keywords "")
+ (keywords "digital,logic,inverter")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-01T19:35:33Z)

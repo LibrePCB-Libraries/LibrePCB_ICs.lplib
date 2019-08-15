@@ -1,7 +1,7 @@
 (librepcb_symbol eb1a10fd-c125-4362-ab86-4fc13932938c
  (name "7411")
  (description "triple 3 input and gate")
- (keywords "")
+ (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")
  (version "0.1")
  (created 2019-08-01T23:13:28Z)
