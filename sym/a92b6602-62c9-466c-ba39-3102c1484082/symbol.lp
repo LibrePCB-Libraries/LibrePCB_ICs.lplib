@@ -7,7 +7,7 @@
  (created 2019-08-03T01:13:28Z)
  (deprecated false)
  (category 8e4af7b5-cbff-4409-9698-f2b545218075)
- (pin 6a695a3e-5ac7-4bac-909c-5fe109fee2a3 (name "VDD")
+ (pin 6a695a3e-5ac7-4bac-909c-5fe109fee2a3 (name "VCC")
   (position 0.0 22.86) (rotation 270.0) (length 2.54)
  )
  (pin 602a2b0e-33a2-49ba-816b-597e8a5abecb (name "GND")
