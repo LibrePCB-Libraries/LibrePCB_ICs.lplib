@@ -1,5 +1,5 @@
 (librepcb_component 1f276437-4723-45a5-976a-846258da2b2f
- (name "NOR2")
+ (name "NOR gate with 2 inputs")
  (description "2 input nor gate")
  (keywords "")
  (author "ouabacheDesignWorks")
@@ -52,19 +52,8 @@
    (pin feba2495-be70-4602-af49-ca4d0583baa3 (signal 4a2ae2bd-6266-4e4b-9fbf-5f590789f425) (text none))
   )
  )
- (variant 2234724f-a642-4a2a-8125-89c198721c84 (norm "")
-  (name "small")
-  (description "")
-  (gate 851c60b1-85d1-42fe-92a1-431dea08874a
-   (symbol 8068c149-5241-4fb3-a6c2-b1c66cc6514d)
-   (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
-   (pin 00f6ec28-0459-45f0-9b94-224a587f497a (signal c4468ed8-cb89-4386-97f7-67151fdd6a17) (text none))
-   (pin 3518b705-c15c-499c-a97f-6f4f51ec4c7f (signal 4a2ae2bd-6266-4e4b-9fbf-5f590789f425) (text none))
-   (pin 7fe902c5-3c5f-4a80-9b52-b0510108959c (signal 89430e47-784f-4c9b-980d-241f77581947) (text none))
-  )
- )
  (variant eb16ac86-7236-49b8-b749-eefa7347fe01 (norm "")
-  (name "tiny")
+  (name "small")
   (description "")
   (gate 4d9b8dc7-bbc5-4958-85b9-e05341b50d49
    (symbol ac8a8bbe-8b59-4f51-b36d-4927ae7025a2)

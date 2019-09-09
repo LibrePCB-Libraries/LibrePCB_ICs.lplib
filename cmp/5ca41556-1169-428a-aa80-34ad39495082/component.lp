@@ -1,5 +1,5 @@
 (librepcb_component 5ca41556-1169-428a-aa80-34ad39495082
- (name "DFF_RN")
+ (name "D FlipFlop with active low async reset")
  (description "D FlipFlop with active low async reset")
  (keywords "")
  (author "ouabacheDesignWorks")

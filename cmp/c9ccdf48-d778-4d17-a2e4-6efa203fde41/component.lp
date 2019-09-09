@@ -1,5 +1,5 @@
 (librepcb_component c9ccdf48-d778-4d17-a2e4-6efa203fde41
- (name "DFF_RNPN")
+ (name "D FlipFlop with active low reset and preset")
  (description "D FlipFlop with active low reset and preset")
  (keywords "")
  (author "ouabacheDesignWorks")

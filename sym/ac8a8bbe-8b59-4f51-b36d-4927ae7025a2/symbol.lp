@@ -1,5 +1,5 @@
 (librepcb_symbol ac8a8bbe-8b59-4f51-b36d-4927ae7025a2
- (name "NOR2_8")
+ (name "NOR gate 2 input small")
  (description "Nor2 gate")
  (keywords "digital,logic,nor")
  (author "ouabacheDesignWorks")

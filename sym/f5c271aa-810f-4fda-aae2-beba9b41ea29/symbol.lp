@@ -1,5 +1,5 @@
 (librepcb_symbol f5c271aa-810f-4fda-aae2-beba9b41ea29
- (name "AND4")
+ (name "AND gate 4 input default")
  (description "And4 gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")

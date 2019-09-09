@@ -1,5 +1,5 @@
 (librepcb_component 7491a44a-cda3-4b79-b022-1e0dc03f0630
- (name "AND4")
+ (name "AND gate 4 inputs")
  (description "And4 gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")

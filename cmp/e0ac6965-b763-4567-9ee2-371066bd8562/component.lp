@@ -1,5 +1,5 @@
 (librepcb_component e0ac6965-b763-4567-9ee2-371066bd8562
- (name "NAND2")
+ (name "NAND gate with 2 inputs")
  (description "2 input nand gate")
  (keywords "digital,logic,nand")
  (author "ouabacheDesignWorks")
@@ -52,19 +52,8 @@
    (pin 92b82065-c6ee-46aa-a020-abf156cb77dc (signal 3f7f9919-4fdb-4e2b-a58f-d43fa45bdfeb) (text none))
   )
  )
- (variant dd8abd8e-34d1-4ded-a83e-4249f8a967c0 (norm "")
-  (name "small")
-  (description "")
-  (gate 3fefd533-6cb4-48f8-92dd-3513c906af9d
-   (symbol 6798843c-7e11-40a6-bbe0-c80dd78eb507)
-   (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
-   (pin 460e2848-ebac-40a2-9f4d-4f0fa2b76a87 (signal 2ca8682c-8062-4752-858d-b83651c237d8) (text none))
-   (pin 7eb9a289-1e64-419f-a04d-cf0ed6d4f715 (signal e9cbeed8-e69c-4ab3-994d-d5950dab66c8) (text none))
-   (pin db2f92a7-0db8-46d0-937e-8abe8d5ef2d6 (signal 3f7f9919-4fdb-4e2b-a58f-d43fa45bdfeb) (text none))
-  )
- )
  (variant 9ec24f7d-89c0-4af4-b752-5b04f9a17688 (norm "")
-  (name "tiny")
+  (name "small")
   (description "")
   (gate d1cd82c4-05ed-4a06-8be4-5c04de819e5f
    (symbol be980977-9907-4a03-800e-b050e9576e83)

@@ -1,5 +1,5 @@
 (librepcb_symbol 28a55165-1447-45b3-a5a8-f3071db2d4ec
- (name "NAND3")
+ (name "NAND gate 3 input default")
  (description "Nand3 gate")
  (keywords "digital,logic,nand")
  (author "ouabacheDesignWorks")

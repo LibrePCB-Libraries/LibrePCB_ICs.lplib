@@ -1,5 +1,5 @@
 (librepcb_symbol 473abaeb-575b-4c0e-a3d9-fbb3f7447832
- (name "NOR2_4")
+ (name "NOR gate 2 input default")
  (description "Nor2 gate")
  (keywords "digital,logic,nor")
  (author "ouabacheDesignWorks")

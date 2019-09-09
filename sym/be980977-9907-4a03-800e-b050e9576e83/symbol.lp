@@ -1,5 +1,5 @@
 (librepcb_symbol be980977-9907-4a03-800e-b050e9576e83
- (name "NAND2_8")
+ (name "NAND gate 2 input small")
  (description "Nand2 gate")
  (keywords "digital,logic,nand")
  (author "ouabacheDesignWorks")

@@ -1,5 +1,5 @@
 (librepcb_symbol 687263b8-584c-4522-ba71-6d4ea759dcc4
- (name "HALF_ADDER")
+ (name "HALF ADDER")
  (description "Half Adder")
  (keywords "digital,logic,arithmetic")
  (author "ouabacheDesignWorks")
@@ -31,9 +31,6 @@
   (align left bottom) (height 2.54) (position -10.16 -15.24) (rotation 0.0)
  )
  (text ed246923-d6fd-4e34-8bf7-0daf8ad06129 (layer sym_names) (value "{{NAME}}")
-  (align left bottom) (height 2.54) (position -10.16 12.7) (rotation 0.0)
- )
- (text 07bbfecb-6ef1-4182-bbbf-62cb332afbf8 (layer sym_outlines) (value "HALF_ADDER")
   (align left bottom) (height 2.54) (position -10.16 10.16) (rotation 0.0)
  )
 )

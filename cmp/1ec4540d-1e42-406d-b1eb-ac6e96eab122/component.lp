@@ -1,5 +1,5 @@
 (librepcb_component 1ec4540d-1e42-406d-b1eb-ac6e96eab122
- (name "XOR2")
+ (name "Exclusive OR gate")
  (description "2 input xor gate")
  (keywords "")
  (author "ouabacheDesignWorks")
@@ -31,7 +31,7 @@
   )
  )
  (variant c43f5d97-7faf-418f-93b6-03411b320304 (norm "")
-  (name "tiny")
+  (name "small")
   (description "")
   (gate eba8ec3c-63b0-47aa-8d47-61f9b4dc36e0
    (symbol 9bef141f-de89-444a-8ffa-a5cb05d5dde6)

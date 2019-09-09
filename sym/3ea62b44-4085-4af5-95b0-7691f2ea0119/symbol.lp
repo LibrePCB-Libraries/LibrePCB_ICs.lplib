@@ -1,5 +1,5 @@
 (librepcb_symbol 3ea62b44-4085-4af5-95b0-7691f2ea0119
- (name "XNOR2")
+ (name "Exclusive NOR gate default")
  (description "Xnor2 gate")
  (keywords "digital,logic,xnor")
  (author "ouabacheDesignWorks")

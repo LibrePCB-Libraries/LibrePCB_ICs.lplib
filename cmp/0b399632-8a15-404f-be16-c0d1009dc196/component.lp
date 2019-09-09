@@ -1,5 +1,5 @@
 (librepcb_component 0b399632-8a15-404f-be16-c0d1009dc196
- (name "DFF_R")
+ (name "D FlipFlop with async Reset")
  (description "D FlipFlop with async Reset")
  (keywords "")
  (author "ouabacheDesignWorks")

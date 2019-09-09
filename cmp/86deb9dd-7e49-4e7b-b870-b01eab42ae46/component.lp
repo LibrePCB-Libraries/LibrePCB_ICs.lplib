@@ -1,5 +1,5 @@
 (librepcb_component 86deb9dd-7e49-4e7b-b870-b01eab42ae46
- (name "DFF")
+ (name "D FlipFlop")
  (description "D FlipFlop")
  (keywords "")
  (author "ouabacheDesignWorks")

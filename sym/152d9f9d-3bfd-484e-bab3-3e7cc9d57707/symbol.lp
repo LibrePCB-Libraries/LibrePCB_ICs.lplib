@@ -1,5 +1,5 @@
 (librepcb_symbol 152d9f9d-3bfd-484e-bab3-3e7cc9d57707
- (name "NAND2_dm_4")
+ (name "NAND gate 2 input demorgan default")
  (description "Nand2 gate")
  (keywords "digital,logic,nand")
  (author "ouabacheDesignWorks")

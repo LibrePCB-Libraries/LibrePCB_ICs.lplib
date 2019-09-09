@@ -1,5 +1,5 @@
 (librepcb_symbol 33d9b808-8012-4d57-b6f6-51b360e38ef2
- (name "NAND2_4")
+ (name "NAND gate 2 input default")
  (description "Nand2 gate")
  (keywords "digital,logic,nand")
  (author "ouabacheDesignWorks")

@@ -1,5 +1,5 @@
 (librepcb_symbol 6419d6f0-b0f5-4fa5-83d1-410204f35bb5
- (name "XOR2_4")
+ (name "Exclusive OR gate default")
  (description "Xor2 gate")
  (keywords "digital,logic,xor")
  (author "ouabacheDesignWorks")

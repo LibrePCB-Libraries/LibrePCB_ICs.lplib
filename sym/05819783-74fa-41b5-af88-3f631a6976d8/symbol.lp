@@ -1,5 +1,5 @@
 (librepcb_symbol 05819783-74fa-41b5-af88-3f631a6976d8
- (name "AND2_4")
+ (name "AND gate 2 input default")
  (description "And2 gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")

@@ -1,5 +1,5 @@
 (librepcb_symbol 44bd2bd4-590d-4213-af20-d759026b96ab
- (name "OR6")
+ (name "OR gate 6 inputs default")
  (description "or6 gate")
  (keywords "digital,logic,or")
  (author "ouabacheDesignWorks")

@@ -1,6 +1,6 @@
 (librepcb_component 1a359127-fb03-42a1-ab52-04f46c563810
- (name "NOR4")
- (description "")
+ (name "NOR gate with 4 inputs")
+ (description "4 input nor gate")
  (keywords "")
  (author "ouabacheDesignWorks")
  (version "0.1")

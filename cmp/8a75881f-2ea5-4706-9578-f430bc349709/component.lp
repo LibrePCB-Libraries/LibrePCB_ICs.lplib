@@ -1,5 +1,5 @@
 (librepcb_component 8a75881f-2ea5-4706-9578-f430bc349709
- (name "DFF_PN")
+ (name "D FlipFlop with active low preset")
  (description "D FlipFlop with active low preset")
  (keywords "")
  (author "ouabacheDesignWorks")

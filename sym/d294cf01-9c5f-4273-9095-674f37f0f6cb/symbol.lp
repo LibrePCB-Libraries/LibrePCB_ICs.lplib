@@ -1,5 +1,5 @@
 (librepcb_symbol d294cf01-9c5f-4273-9095-674f37f0f6cb
- (name "OR2_8")
+ (name "OR gate 2 inputs small")
  (description "or2 gate")
  (keywords "digital,logic,or")
  (author "ouabacheDesignWorks")

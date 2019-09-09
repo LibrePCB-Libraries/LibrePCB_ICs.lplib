@@ -1,5 +1,5 @@
 (librepcb_symbol f1888812-c3b4-429c-89c7-91733dce245a
- (name "FULL_ADDER")
+ (name "FULL ADDER")
  (description "Full Adder")
  (keywords "digital,logic,arithmetic")
  (author "ouabacheDesignWorks")
@@ -34,9 +34,6 @@
   (align left bottom) (height 2.54) (position -10.16 -15.24) (rotation 0.0)
  )
  (text 1cf37346-c7ad-48de-afbc-965dde03286f (layer sym_names) (value "{{NAME}}")
-  (align left bottom) (height 2.54) (position -10.16 12.7) (rotation 0.0)
- )
- (text 0da8af4f-642c-423e-a767-43f233c29feb (layer sym_outlines) (value "FULL_ADDER")
   (align left bottom) (height 2.54) (position -10.16 10.16) (rotation 0.0)
  )
 )

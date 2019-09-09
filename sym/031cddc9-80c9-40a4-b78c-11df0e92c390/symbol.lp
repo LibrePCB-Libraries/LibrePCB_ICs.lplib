@@ -1,5 +1,5 @@
 (librepcb_symbol 031cddc9-80c9-40a4-b78c-11df0e92c390
- (name "OR5")
+ (name "OR gate 5 inputs default")
  (description "or5 gate")
  (keywords "digital,logic,or")
  (author "ouabacheDesignWorks")

@@ -1,5 +1,5 @@
 (librepcb_symbol 4d3cebd7-cb78-4de3-b8c8-13debd98b505
- (name "NOR2_dm_4")
+ (name "NOR gate 2 input demorgan default")
  (description "Nor2 gate")
  (keywords "digital,logic,nor")
  (author "ouabacheDesignWorks")

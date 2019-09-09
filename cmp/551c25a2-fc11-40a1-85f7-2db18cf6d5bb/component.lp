@@ -1,5 +1,5 @@
 (librepcb_component 551c25a2-fc11-40a1-85f7-2db18cf6d5bb
- (name "OR2")
+ (name "OR gate with 2 inputs")
  (description "2 input or gate")
  (keywords "")
  (author "ouabacheDesignWorks")
@@ -52,19 +52,8 @@
    (pin fa27b88d-0211-45c5-b7cf-b6d06328dc52 (signal 22c2dca6-d626-4d1e-a45e-1388850a303d) (text none))
   )
  )
- (variant 9d05d811-a4e7-476c-aec6-84d753da0065 (norm "")
-  (name "small")
-  (description "")
-  (gate 8ca59d8c-27ab-4466-9f2d-050aaf51677b
-   (symbol 27b45855-2a81-4ca3-a56c-efb1d0afd561)
-   (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
-   (pin 47611e34-4ab4-41ea-92ea-4d88a88959ec (signal 22c2dca6-d626-4d1e-a45e-1388850a303d) (text none))
-   (pin 532aecc6-c0b4-4110-9e89-f4840c9acedd (signal 7fb1b238-e81c-4076-9351-4e6b051cba9c) (text none))
-   (pin bd100263-0f1e-4070-a47e-c07ed2eb37f4 (signal fc763db7-8b01-48b8-bc91-d24daa6f8c3e) (text none))
-  )
- )
  (variant 0e04b1f4-1072-4900-a8e5-f484efa2030e (norm "")
-  (name "tiny")
+  (name "small")
   (description "")
   (gate 51a494df-ec7b-4b56-aed9-06bf2b7252f7
    (symbol d294cf01-9c5f-4273-9095-674f37f0f6cb)

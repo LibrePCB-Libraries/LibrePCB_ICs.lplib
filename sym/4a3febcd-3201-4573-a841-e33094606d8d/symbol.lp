@@ -1,5 +1,5 @@
 (librepcb_symbol 4a3febcd-3201-4573-a841-e33094606d8d
- (name "DFF_R")
+ (name "D FlipFlop with async reset")
  (description "D FlipFlop with async reset")
  (keywords "digital,logic,flipflop")
  (author "ouabacheDesignWorks")

@@ -1,6 +1,6 @@
 (librepcb_component 7e5cc2f5-a85f-48f8-9ede-c9d896d5751f
- (name "OR4")
- (description "")
+ (name "OR gate with 4 inputs")
+ (description "4 input or gate")
  (keywords "digital,logic,or")
  (author "ouabacheDesignWorks")
  (version "0.1")

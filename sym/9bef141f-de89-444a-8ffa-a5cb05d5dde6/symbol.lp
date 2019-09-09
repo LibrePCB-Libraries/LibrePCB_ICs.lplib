@@ -1,5 +1,5 @@
 (librepcb_symbol 9bef141f-de89-444a-8ffa-a5cb05d5dde6
- (name "XOR2_8")
+ (name "Exclusiver OR gate small")
  (description "Xor2 gate")
  (keywords "digital,logic,xor")
  (author "ouabacheDesignWorks")

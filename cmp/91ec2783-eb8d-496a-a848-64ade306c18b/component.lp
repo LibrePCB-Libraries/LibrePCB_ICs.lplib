@@ -1,5 +1,5 @@
 (librepcb_component 91ec2783-eb8d-496a-a848-64ade306c18b
- (name "AND3")
+ (name "AND gate 3 inputs")
  (description "And3 gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")

@@ -1,5 +1,5 @@
 (librepcb_symbol 3622a28c-e321-4d8b-b951-137f910982cc
- (name "OR7")
+ (name "OR gate 7 inputs default")
  (description "or7 gate")
  (keywords "digital,logic,or")
  (author "ouabacheDesignWorks")

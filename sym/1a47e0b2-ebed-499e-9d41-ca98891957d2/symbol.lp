@@ -1,5 +1,5 @@
 (librepcb_symbol 1a47e0b2-ebed-499e-9d41-ca98891957d2
- (name "OR2_4")
+ (name "OR gate 2 inputs default")
  (description "or2 gate")
  (keywords "digital,logic,or")
  (author "ouabacheDesignWorks")

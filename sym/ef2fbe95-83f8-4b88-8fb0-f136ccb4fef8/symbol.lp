@@ -1,5 +1,5 @@
 (librepcb_symbol ef2fbe95-83f8-4b88-8fb0-f136ccb4fef8
- (name "NOR3")
+ (name "NOR gate 3 input default")
  (description "Nor3 gate")
  (keywords "digital,logic,nor")
  (author "ouabacheDesignWorks")

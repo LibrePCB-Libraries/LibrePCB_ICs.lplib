@@ -1,5 +1,5 @@
 (librepcb_component 79c50652-808a-4ddf-ad03-d28c17a4a515
- (name "OR3")
+ (name "OR gate with 3 inputs")
  (description "Or3 gate")
  (keywords "digital,logic,or")
  (author "ouabacheDesignWorks")

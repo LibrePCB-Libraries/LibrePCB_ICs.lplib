@@ -1,5 +1,5 @@
 (librepcb_symbol 1d5eab7c-5b95-473e-9ea2-fce0b306a068
- (name "AND2_8")
+ (name "AND gate 2 input small")
  (description "And2 gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")

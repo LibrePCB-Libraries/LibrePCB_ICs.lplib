@@ -1,5 +1,5 @@
 (librepcb_component b7a54481-6f0d-4ba9-9ea4-98a5a530ee81
- (name "DFF_P")
+ (name "D FlipFlop with async preset")
  (description "D FlipFlop with async preset")
  (keywords "")
  (author "ouabacheDesignWorks")

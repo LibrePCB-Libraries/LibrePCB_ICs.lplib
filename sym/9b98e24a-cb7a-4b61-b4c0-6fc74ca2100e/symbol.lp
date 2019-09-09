@@ -1,5 +1,5 @@
 (librepcb_symbol 9b98e24a-cb7a-4b61-b4c0-6fc74ca2100e
- (name "AND5")
+ (name "AND gate 5 input default")
  (description "And5 gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")

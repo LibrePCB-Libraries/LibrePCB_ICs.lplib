@@ -1,5 +1,5 @@
 (librepcb_component ac946fb5-5c0d-4a62-b39b-e09014bb07a3
- (name "XNOR2")
+ (name "Exclusive NOR gate")
  (description "Xnor2 gate")
  (keywords "")
  (author "ouabacheDesignWorks")

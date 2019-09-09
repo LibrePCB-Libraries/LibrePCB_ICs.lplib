@@ -1,5 +1,5 @@
 (librepcb_symbol 386725a0-9e95-4262-9761-0ad2fc4eb114
- (name "AND3")
+ (name "AND gate 3 input default")
  (description "And3 gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")

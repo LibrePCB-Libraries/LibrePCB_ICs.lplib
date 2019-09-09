@@ -1,5 +1,5 @@
 (librepcb_symbol a0159914-0a38-49c3-8988-3078277a340c
- (name "BARREL_SHIFTER_4")
+ (name "BARREL SHIFTER 4 bits")
  (description "4 bit Barrel Shifter")
  (keywords "digital,logic,arithmetic")
  (author "ouabacheDesignWorks")
@@ -49,9 +49,6 @@
   (align left bottom) (height 2.54) (position -10.16 -22.86) (rotation 0.0)
  )
  (text 508921d7-9b6c-4fa0-bf04-2457f793524c (layer sym_names) (value "{{NAME}}")
-  (align left bottom) (height 2.54) (position -10.16 20.32) (rotation 0.0)
- )
- (text 96f14920-c2d5-42cf-8b69-637aece9334e (layer sym_outlines) (value "BARREL_SHIFTER")
   (align left bottom) (height 2.54) (position -10.16 17.78) (rotation 0.0)
  )
 )

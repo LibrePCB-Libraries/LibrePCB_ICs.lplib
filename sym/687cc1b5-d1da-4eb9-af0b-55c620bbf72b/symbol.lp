@@ -1,5 +1,5 @@
 (librepcb_symbol 687cc1b5-d1da-4eb9-af0b-55c620bbf72b
- (name "OR3")
+ (name "OR gate 3 inputs default")
  (description "or3 gate")
  (keywords "digital,logic,or")
  (author "ouabacheDesignWorks")

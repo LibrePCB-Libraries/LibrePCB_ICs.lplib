@@ -1,5 +1,5 @@
 (librepcb_symbol b252653d-f7e7-4da8-a637-9c153c9611e5
- (name "DFF_PN")
+ (name "D FlipFlop with active low async preset")
  (description "D FlipFlop with active low async preset")
  (keywords "digital,logic,flipflop")
  (author "ouabacheDesignWorks")

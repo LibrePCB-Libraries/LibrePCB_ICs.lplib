@@ -1,5 +1,5 @@
 (librepcb_component cfce99fc-2530-4512-8ca5-d29d1e0699e4
- (name "NOR3")
+ (name "NOR gate with  3 inputs")
  (description "Nor3 gate")
  (keywords "digital,logic,nor")
  (author "ouabacheDesignWorks")

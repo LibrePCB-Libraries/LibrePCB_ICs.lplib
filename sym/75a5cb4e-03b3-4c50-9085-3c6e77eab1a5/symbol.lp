@@ -1,5 +1,5 @@
 (librepcb_symbol 75a5cb4e-03b3-4c50-9085-3c6e77eab1a5
- (name "AND2_dm_4")
+ (name "AND gate 2 input demorgan default")
  (description "And2 gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")

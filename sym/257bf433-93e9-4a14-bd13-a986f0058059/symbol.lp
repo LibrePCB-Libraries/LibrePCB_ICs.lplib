@@ -1,5 +1,5 @@
 (librepcb_symbol 257bf433-93e9-4a14-bd13-a986f0058059
- (name "MUX2")
+ (name "MULTIPLEXOR 2 input default")
  (description "Multiplexor")
  (keywords "digital,logic,flipflop")
  (author "ouabacheDesignWorks")

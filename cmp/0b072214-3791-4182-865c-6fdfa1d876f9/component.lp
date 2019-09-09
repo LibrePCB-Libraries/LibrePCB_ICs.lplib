@@ -1,5 +1,5 @@
 (librepcb_component 0b072214-3791-4182-865c-6fdfa1d876f9
- (name "NAND3")
+ (name "NAND gate with 3 inputs")
  (description "Nand3 gate")
  (keywords "digital,logic,nand")
  (author "ouabacheDesignWorks")

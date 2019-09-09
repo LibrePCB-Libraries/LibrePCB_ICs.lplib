@@ -1,5 +1,5 @@
 (librepcb_component 2f130962-872b-44b2-95f5-ae2141774621
- (name "NAND4")
+ (name "NAND gate with 4 inputs")
  (description "Nand4 gate")
  (keywords "digital,logic,nand")
  (author "ouabacheDesignWorks")

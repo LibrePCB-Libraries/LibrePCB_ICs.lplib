@@ -1,5 +1,5 @@
 (librepcb_component 5b34171f-354c-4fba-aa60-5ba02b449219
- (name "AND2")
+ (name "AND2 gate 2 inputs")
  (description "2 input and gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")
@@ -52,19 +52,8 @@
    (pin 8fb8e9e7-4f59-4f0e-858c-154ec1eb44db (signal 87a2968c-6342-4f27-a613-4c480f8e737a) (text none))
   )
  )
- (variant 029d9997-f89c-4e65-98ea-c124ac4de004 (norm "")
-  (name "small")
-  (description "")
-  (gate fb000fb0-9aa9-42c2-a536-c0fc3b54d17e
-   (symbol adaf9181-a460-46ed-8576-f4e13448adbe)
-   (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
-   (pin 15479eaa-1dbb-49d2-8acd-4fbbbef965fe (signal 403d084c-dd1f-437d-b158-243bc08f50b8) (text none))
-   (pin 1776b698-4b1e-4def-99d7-b615f5b9b6fa (signal 898b2b2e-fb93-48fd-9e55-4d36449ed537) (text none))
-   (pin cac418e3-89cb-4bb9-8f87-52c82ebc802b (signal 87a2968c-6342-4f27-a613-4c480f8e737a) (text none))
-  )
- )
  (variant 54caa0ed-e357-4899-bbed-148cd1cbe3ad (norm "")
-  (name "tiny")
+  (name "small")
   (description "")
   (gate 5dedabca-f7fc-4516-9e4b-85774fb7c656
    (symbol 1d5eab7c-5b95-473e-9ea2-fce0b306a068)

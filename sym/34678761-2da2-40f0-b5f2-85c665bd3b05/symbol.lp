@@ -1,5 +1,5 @@
 (librepcb_symbol 34678761-2da2-40f0-b5f2-85c665bd3b05
- (name "OR2_dm_4")
+ (name "OR gate 2 inputs demorgan default")
  (description "Or2 gate")
  (keywords "digital,logic,or")
  (author "ouabacheDesignWorks")

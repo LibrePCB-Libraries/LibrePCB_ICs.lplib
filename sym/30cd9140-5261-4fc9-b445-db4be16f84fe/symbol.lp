@@ -1,5 +1,5 @@
 (librepcb_symbol 30cd9140-5261-4fc9-b445-db4be16f84fe
- (name "DFF_RNPN")
+ (name "D FlipFlop with active low async reset and preset")
  (description "D FlipFlop with active low async reset and preset")
  (keywords "digital,logic,flipflop")
  (author "ouabacheDesignWorks")
