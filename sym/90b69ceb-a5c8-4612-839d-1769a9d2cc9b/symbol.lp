@@ -1,5 +1,5 @@
 (librepcb_symbol 90b69ceb-a5c8-4612-839d-1769a9d2cc9b
- (name "AND6 gate 6 input default")
+ (name "AND gate 6 input default")
  (description "And6 gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")
