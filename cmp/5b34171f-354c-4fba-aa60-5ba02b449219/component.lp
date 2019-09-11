@@ -1,5 +1,5 @@
 (librepcb_component 5b34171f-354c-4fba-aa60-5ba02b449219
- (name "AND2 gate 2 inputs")
+ (name "AND gate with 2 inputs")
  (description "2 input and gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")

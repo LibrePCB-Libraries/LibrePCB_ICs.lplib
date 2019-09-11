@@ -1,5 +1,5 @@
 (librepcb_symbol d6072c19-e8de-4cf1-9e9d-3c4a3a5710b2
- (name "NOR gate 4 inputs default")
+ (name "NOR gate 4 input default")
  (description "Nor4 gate")
  (keywords "digital,logic,nor")
  (author "ouabacheDesignWorks")
