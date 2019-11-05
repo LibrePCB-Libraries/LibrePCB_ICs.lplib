@@ -1,7 +1,7 @@
 (librepcb_symbol 247cab71-4035-4297-98c3-78036b63ba09
- (name "ADC 5-Pin Differential")
- (description "A generic differential single-channel analog-to-digital converter with 5 pins.")
- (keywords "adc,5-pin,differential,single-channel")
+ (name "ADC 6-Pin Differential")
+ (description "A generic differential single-channel analog-to-digital converter with 6 pins.")
+ (keywords "adc,6-pin,differential,single-channel")
  (author "Danilo Bargen")
  (version "0.1")
  (created 2019-08-12T20:41:26Z)
