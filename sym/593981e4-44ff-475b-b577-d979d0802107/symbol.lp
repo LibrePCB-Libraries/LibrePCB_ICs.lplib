@@ -1,6 +1,6 @@
 (librepcb_symbol 593981e4-44ff-475b-b577-d979d0802107
  (name "DFF_4")
- (description "created from file---  ./Logic/DFF_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
+ (description "\ncreated from file---  ./Logic/DFF_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
  (keywords "digital,logic,flipflop")
  (author "John Eaton")
  (version "0.1")
@@ -24,7 +24,7 @@
   (vertex (position -10.16 -10.16) (angle 0.0))
   (vertex (position -10.16 10.16) (angle 0.0))
  )
- (polygon 8706687f-9d4c-4e30-a7c5-deaf6422119a (layer sym_outlines)
+ (polygon ccda4558-6f81-487e-9ee5-7961df22a934 (layer sym_outlines)
   (width 0.158) (fill false) (grab_area false)
   (vertex (position -10.16 -6.35) (angle 0.0))
   (vertex (position -7.62 -5.08) (angle 0.0))

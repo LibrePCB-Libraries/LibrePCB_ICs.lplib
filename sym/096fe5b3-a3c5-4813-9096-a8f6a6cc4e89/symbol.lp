@@ -1,6 +1,6 @@
 (librepcb_symbol 096fe5b3-a3c5-4813-9096-a8f6a6cc4e89
  (name "BUFFERTS_4")
- (description "created from file---  ./Logic/BUFFERTS_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
+ (description "\ncreated from file---  ./Logic/BUFFERTS_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
  (keywords "digital,logic,buffer,buffer,tristate")
  (author "John Eaton")
  (version "0.1")
@@ -23,7 +23,7 @@
   (vertex (position 10.16 0.0) (angle 0.0))
   (vertex (position -5.08 -7.62) (angle 0.0))
  )
- (polygon 19968d0c-b3b2-44c2-94d5-92869f8a2f61 (layer sym_outlines)
+ (polygon 1052a8a0-2736-4355-bfea-ac4c316bf669 (layer sym_outlines)
   (width 0.158) (fill false) (grab_area false)
   (vertex (position 0.0 5.08) (angle 0.0))
   (vertex (position 0.0 10.16) (angle 0.0))

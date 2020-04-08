@@ -1,6 +1,6 @@
 (librepcb_symbol 8f1e795f-12a9-4c9e-8acd-1a643a1fc543
  (name "BUFFER_8")
- (description "created from file---  ./Logic/BUFFER_8.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
+ (description "\ncreated from file---  ./Logic/BUFFER_8.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
  (keywords "digital,logic,buffer,buffer")
  (author "John Eaton")
  (version "0.1")

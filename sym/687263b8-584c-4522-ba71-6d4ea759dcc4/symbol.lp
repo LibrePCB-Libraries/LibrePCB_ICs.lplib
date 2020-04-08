@@ -1,6 +1,6 @@
 (librepcb_symbol 687263b8-584c-4522-ba71-6d4ea759dcc4
  (name "HALF_ADDER_4")
- (description "created from file---  ./Logic/HALF_ADDER_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
+ (description "\ncreated from file---  ./Logic/HALF_ADDER_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
  (keywords "digital,logic")
  (author "John Eaton")
  (version "0.1")

@@ -1,6 +1,6 @@
 (librepcb_symbol a0159914-0a38-49c3-8988-3078277a340c
  (name "BARREL_SHIFTER4_4")
- (description "created from file---  ./Logic/BARREL_SHIFTER4_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
+ (description "\ncreated from file---  ./Logic/BARREL_SHIFTER4_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
  (keywords "digital,logic")
  (author "John Eaton")
  (version "0.1")

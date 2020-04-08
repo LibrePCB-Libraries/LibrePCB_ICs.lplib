@@ -1,6 +1,6 @@
 (librepcb_symbol f1888812-c3b4-429c-89c7-91733dce245a
  (name "FULL_ADDER_4")
- (description "created from file---  ./Logic/FULL_ADDER_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
+ (description "\ncreated from file---  ./Logic/FULL_ADDER_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
  (keywords "digital,logic")
  (author "John Eaton")
  (version "0.1")

@@ -1,6 +1,6 @@
 (librepcb_symbol 257bf433-93e9-4a14-bd13-a986f0058059
  (name "MUX2_4")
- (description "created from file---  ./Logic/MUX2_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
+ (description "\ncreated from file---  ./Logic/MUX2_4.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
  (keywords "digital,logic,multiplexor,Dual")
  (author "John Eaton")
  (version "0.1")
@@ -27,7 +27,7 @@
   (vertex (position 10.16 -5.08) (angle 0.0))
   (vertex (position -10.16 -10.16) (angle 0.0))
  )
- (polygon 82765dfb-3939-40c7-aad3-f27cb6f7502d (layer sym_outlines)
+ (polygon 595be1d3-9ed7-466c-88d8-1c99da3d9fac (layer sym_outlines)
   (width 0.158) (fill false) (grab_area false)
   (vertex (position -12.7 -15.24) (angle 0.0))
   (vertex (position 0.0 -15.24) (angle 0.0))

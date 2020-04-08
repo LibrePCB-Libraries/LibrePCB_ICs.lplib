@@ -1,6 +1,6 @@
 (librepcb_symbol 0451538b-6b26-45c0-bd61-5840bb22212d
  (name "INV_6")
- (description "created from file---  ./Logic/INV_6.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
+ (description "\ncreated from file---  ./Logic/INV_6.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
  (keywords "digital,logic,inverter")
  (author "John Eaton")
  (version "0.1")
@@ -20,7 +20,7 @@
   (vertex (position 7.622 0.0) (angle 0.0))
   (vertex (position -3.811 -5.716) (angle 0.0))
  )
- (circle 405db82a-2779-4fe2-8fe4-036077eee6d7 (layer sym_outlines)
+ (circle 8f89a528-4f71-445f-8f2a-9705dfeda3e0 (layer sym_outlines)
   (width 0.191) (fill false) (grab_area false) (diameter 1.905) (position 8.575 0.0)
  )
  (text 61d96ade-7431-4f70-9de5-e9d2b7206451 (layer sym_names) (value "{{NAME}}")
