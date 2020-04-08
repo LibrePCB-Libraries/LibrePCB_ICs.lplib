@@ -64,7 +64,7 @@
    (pin 46595a8e-abbb-46ce-b071-1a77e9728ffa (signal 18303375-3c1e-454c-88b3-7caaf29cadff) (text signal))
    (pin 499ca0a4-b83c-4b90-8162-86ab1651f466 (signal 9e617c92-55d2-444d-b8b0-645d780b7336) (text none))
    (pin 4ba7bf0c-145d-4f2d-8201-f82e2ce606da (signal 06c339e5-8fab-478b-96f6-84268b64ebb4) (text none))
-   (pin 4e9f4133-8425-419e-98ab-662aa6d34776 (signal 03ad46d8-592e-4f28-9f1c-2c1112fa59fe) (text pin))
+   (pin 4e9f4133-8425-419e-98ab-662aa6d34776 (signal 03ad46d8-592e-4f28-9f1c-2c1112fa59fe) (text none))
    (pin 6853a5f5-d0b9-4a54-9e2d-dfa88fe17abc (signal ba9a8bce-b171-450b-b287-99142bc30cec) (text signal))
    (pin 70789b11-08d7-49fc-b3ff-fc7ba32ca22d (signal df48ba3e-d342-4466-bb03-5b220988e2af) (text none))
    (pin 8744b3fd-a192-42bb-9b91-f6eb9fc0ddf9 (signal 90c42728-6d5e-4112-b788-b898c871ee20) (text none))
