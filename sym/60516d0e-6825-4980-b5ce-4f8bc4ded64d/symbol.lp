@@ -1,9 +1,9 @@
 (librepcb_symbol 60516d0e-6825-4980-b5ce-4f8bc4ded64d
- (name "Solid State Relay-AC")
- (description "AC Solid state relay, normally open, zero crossing")
- (keywords "solid, relay, optocoupler")
+ (name "Solid State Relay AC")
+ (description "AC solid state relay, normally open, zero crossing.")
+ (keywords "optocoupler,ssr")
  (author "Recycled0080")
- (version "0.1")
+ (version "0.1.1")
  (created 2023-09-28T01:44:47Z)
  (deprecated false)
  (generated_by "")
