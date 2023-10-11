@@ -3,7 +3,7 @@
  (description "Opamp without power pins.")
  (keywords "")
  (author "pinoaffe")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-12-12T23:57:37Z)
  (deprecated false)
  (generated_by "")

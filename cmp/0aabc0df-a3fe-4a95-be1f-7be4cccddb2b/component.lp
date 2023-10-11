@@ -3,7 +3,7 @@
  (description "Quad opamp.")
  (keywords "")
  (author "pinoaffe")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-12-13T00:20:56Z)
  (deprecated false)
  (generated_by "")

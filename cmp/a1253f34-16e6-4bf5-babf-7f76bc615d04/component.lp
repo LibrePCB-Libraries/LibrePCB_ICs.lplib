@@ -3,7 +3,7 @@
  (description "Single opamp.")
  (keywords "")
  (author "pinoaffe")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-12-13T00:07:23Z)
  (deprecated false)
  (generated_by "")
