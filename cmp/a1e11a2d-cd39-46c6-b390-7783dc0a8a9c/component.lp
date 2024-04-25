@@ -1,9 +1,9 @@
 (librepcb_component a1e11a2d-cd39-46c6-b390-7783dc0a8a9c
- (name "MMIC No Power")
+ (name "MMIC Without Power")
  (description "")
  (keywords "")
  (author "eto-")
- (version "0.1")
+ (version "0.1.1")
  (created 2023-12-12T09:07:43Z)
  (deprecated false)
  (generated_by "")
