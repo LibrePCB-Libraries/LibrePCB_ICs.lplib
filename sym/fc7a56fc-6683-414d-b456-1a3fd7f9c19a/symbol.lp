@@ -1,7 +1,7 @@
 (librepcb_symbol fc7a56fc-6683-414d-b456-1a3fd7f9c19a
  (name "Buffer With Enable")
  (description "")
- (keywords "")
+ (keywords "buffer,driver,tristate")
  (author "nbes4")
  (version "0.1")
  (created 2024-07-12T20:58:36Z)
@@ -12,7 +12,7 @@
  (pin d359fe8d-9800-495c-adb5-5fae6d0b7e5c (name "EN")
   (position 0.0 -5.08) (rotation 90.0) (length 3.8)
   (name_position 5.07 0.0) (name_rotation 0.0) (name_height 2.5)
-  (name_align left center)
+  (name_align center center)
  )
  (pin ff9c7481-a8ec-488d-ac96-0d7cdbab7921 (name "IN")
   (position -5.08 0.0) (rotation 0.0) (length 2.54)
