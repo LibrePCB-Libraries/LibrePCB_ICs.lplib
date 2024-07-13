@@ -12,7 +12,7 @@
  (pin e3d3f2c7-c2a4-4ba6-ba5a-e665c16cf019 (name "EN")
   (position 0.0 -5.08) (rotation 90.0) (length 3.8)
   (name_position 5.07 0.0) (name_rotation 0.0) (name_height 2.5)
-  (name_align left center)
+  (name_align center center)
  )
  (pin fa313ad1-0eba-496f-82ae-687722011465 (name "IN")
   (position -5.08 0.0) (rotation 0.0) (length 2.54)

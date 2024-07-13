@@ -9,7 +9,7 @@
  (generated_by "")
  (category 56f01b1d-0723-4c33-88f7-9968cf96b50f)
  (category a4c3b94b-5321-4adb-8a77-d3b53f178cee)
- (pin c939950d-4002-40b0-9836-6a07b034582c (name "EN")
+ (pin c939950d-4002-40b0-9836-6a07b034582c (name "!EN")
   (position 0.0 -5.08) (rotation 90.0) (length 2.7)
   (name_position 3.97 0.0) (name_rotation 0.0) (name_height 2.5)
   (name_align left center)
