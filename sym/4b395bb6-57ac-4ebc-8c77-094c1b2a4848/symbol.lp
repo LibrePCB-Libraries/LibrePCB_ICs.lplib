@@ -1,6 +1,6 @@
 (librepcb_symbol 4b395bb6-57ac-4ebc-8c77-094c1b2a4848
- (name "Inverted Buffer With Inverted Enable")
- (description "")
+ (name "Buffer Inverting With Inverting Enable")
+ (description "Inverting tri-state buffer/line driver with inverting enable")
  (keywords "buffer,driver,tristate")
  (author "nbes4")
  (version "0.1")

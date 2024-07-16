@@ -1,6 +1,6 @@
 (librepcb_symbol 9cb9ee49-b9aa-4a25-b56e-548b6c655f23
- (name "Inverted Buffer")
- (description "")
+ (name "Buffer Inverting")
+ (description "Inverting buffer")
  (keywords "buffer")
  (author "nbes4")
  (version "0.1")
@@ -30,7 +30,7 @@
   (width 0.2) (fill false) (grab_area true) (diameter 0.898024) (position 3.15 0.0)
  )
  (text 91418f0a-aa31-4fbf-9de1-7dd5a53e47d1 (layer sym_values) (value "{{VALUE}}")
-  (align left top) (height 2.54) (position 1.27 -1.27) (rotation 0.0)
+  (align left top) (height 2.54) (position -2.54 -2.54) (rotation 0.0)
  )
  (text 5a5022f9-ea07-45bb-83a8-8a5b2f3704fb (layer sym_names) (value "{{NAME}}")
   (align left bottom) (height 2.54) (position -2.54 2.54) (rotation 0.0)

@@ -1,6 +1,6 @@
 (librepcb_symbol fc7a56fc-6683-414d-b456-1a3fd7f9c19a
  (name "Buffer With Enable")
- (description "")
+ (description "Tri-state buffer/line driver")
  (keywords "buffer,driver,tristate")
  (author "nbes4")
  (version "0.1")
