@@ -1,9 +1,9 @@
 (librepcb_component fd175594-0a7e-443f-ae71-6126adbf106e
- (name "Regulator with Enable")
+ (name "Regulator With Enable")
  (description "A voltage regulator with enable pin.")
  (keywords "regulator,ldo,dc-dc,voltage")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.1.1")
  (created 2019-01-28T19:26:25Z)
  (deprecated false)
  (generated_by "")
