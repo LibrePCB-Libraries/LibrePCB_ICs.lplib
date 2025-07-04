@@ -3,7 +3,8 @@
 ## Description
 
 This is a [LibrePCB](http://librepcb.org) library!
-Just edit this file to add a description about it.
+In this library, there are various ICs e.g. Inverting tri-state buffer/line driver with inverting enable.
+It is official, and is recomended to be installed after getting [LibrePCB](https://librepcb.org/docs/installation)
 
 ## License
 
