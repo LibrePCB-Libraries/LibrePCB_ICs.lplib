@@ -1,9 +1,9 @@
 (librepcb_component 1a6346c3-9de3-4b4e-8bf4-9f2bf1c07a07
  (name "Buffer Triple")
- (description "Triple buffer")
- (keywords "buffer")
+ (description "Generic triple-gate buffer.")
+ (keywords "")
  (author "eduardosm")
- (version "0.1")
+ (version "0.1.1")
  (created 2026-03-17T19:00:40Z)
  (deprecated false)
  (generated_by "")

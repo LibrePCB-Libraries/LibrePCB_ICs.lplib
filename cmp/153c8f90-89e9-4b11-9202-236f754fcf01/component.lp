@@ -1,9 +1,9 @@
 (librepcb_component 153c8f90-89e9-4b11-9202-236f754fcf01
  (name "Buffer Dual")
- (description "Dual buffer")
- (keywords "buffer")
+ (description "Generic dual-gate buffer.")
+ (keywords "")
  (author "eduardosm")
- (version "0.1")
+ (version "0.1.1")
  (created 2026-03-17T18:58:21Z)
  (deprecated false)
  (generated_by "")

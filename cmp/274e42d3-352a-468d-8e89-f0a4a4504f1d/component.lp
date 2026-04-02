@@ -1,9 +1,9 @@
 (librepcb_component 274e42d3-352a-468d-8e89-f0a4a4504f1d
  (name "Buffer Quad")
- (description "Quad buffer")
- (keywords "buffer")
+ (description "Generic quad-gate buffer.")
+ (keywords "")
  (author "eduardosm")
- (version "0.1")
+ (version "0.1.1")
  (created 2026-03-17T19:02:17Z)
  (deprecated false)
  (generated_by "")

@@ -1,9 +1,9 @@
 (librepcb_component f54c2d83-3472-4ead-aba8-4b22e2be9db0
  (name "Buffer Single")
- (description "Single buffer")
- (keywords "buffer")
+ (description "Generic single-gate buffer.")
+ (keywords "")
  (author "eduardosm")
- (version "0.1")
+ (version "0.1.1")
  (created 2026-03-17T18:53:13Z)
  (deprecated false)
  (generated_by "")
